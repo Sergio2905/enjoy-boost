@@ -171,8 +171,8 @@ body._lock {
   content: "";
   width: 25px;
   height: 25px;
-  -webkit-mask: url("../../img/icons/icons.svg#menu-icon") no-repeat;
-          mask: url("../../img/icons/icons.svg#menu-icon") no-repeat;
+  -webkit-mask: url("../img/icons/icons.svg#menu-icon") no-repeat;
+          mask: url("../img/icons/icons.svg#menu-icon") no-repeat;
   background: #fff;
 }
 
@@ -180,8 +180,8 @@ body._lock {
   content: "";
   width: 25px;
   height: 25px;
-  -webkit-mask: url("../../img/icons/icons.svg#xmark") no-repeat;
-          mask: url("../../img/icons/icons.svg#xmark") no-repeat;
+  -webkit-mask: url("../img/icons/icons.svg#xmark") no-repeat;
+          mask: url("../img/icons/icons.svg#xmark") no-repeat;
   background: #fff;
   opacity: 0;
   transform: translate(-50%, -50%) scale(0);
@@ -271,7 +271,7 @@ body._lock {
   transform: translate(0, -50%);
   width: 15px;
   height: 15px;
-  background: url("../../img/icons/icons.svg#arrow-down") no-repeat;
+  background: url("../img/icons/icons.svg#arrow-down") no-repeat;
 }
 
 .option:hover {
