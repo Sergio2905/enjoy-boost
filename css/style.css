@@ -752,7 +752,7 @@ body._lock {
 }
 
 .how-main__item:nth-child(1) .how-main__block::before {
-  background: url("../../img/icons/icons.svg#registration") 50%/50% no-repeat, #4F2C8C;
+  background: url("../img/icons/icons.svg#registration") 50%/50% no-repeat, #4F2C8C;
 }
 
 .how-main__item:nth-child(2) {
@@ -760,7 +760,7 @@ body._lock {
 }
 
 .how-main__item:nth-child(2) .how-main__block::before {
-  background: url("../../img/icons/icons.svg#details") 50%/50% no-repeat, #4F2C8C;
+  background: url("../img/icons/icons.svg#details") 50%/50% no-repeat, #4F2C8C;
 }
 
 .how-main__item:nth-child(3) {
@@ -768,15 +768,15 @@ body._lock {
 }
 
 .how-main__item:nth-child(3) .how-main__block::before {
-  background: url("../../img/icons/icons.svg#payment") 50%/50% no-repeat, #4F2C8C;
+  background: url("../img/icons/icons.svg#payment") 50%/50% no-repeat, #4F2C8C;
 }
 
 .how-main__item:nth-child(4) .how-main__block::before {
-  background: url("../../img/icons/icons.svg#processing") 50%/50% no-repeat, #4F2C8C;
+  background: url("../img/icons/icons.svg#processing") 50%/50% no-repeat, #4F2C8C;
 }
 
 .how-main__item:nth-child(5) .how-main__block::before {
-  background: url("../../img/icons/icons.svg#confirmation") 50%/50% no-repeat, #4F2C8C;
+  background: url("../img/icons/icons.svg#confirmation") 50%/50% no-repeat, #4F2C8C;
 }
 
 .how-main__item:nth-child(6)::before {
@@ -792,7 +792,7 @@ body._lock {
 }
 
 .how-main__item:nth-child(6) .how-main__block::before {
-  background: url("../../img/icons/icons.svg#review") 50%/50% no-repeat, #4F2C8C;
+  background: url("../img/icons/icons.svg#review") 50%/50% no-repeat, #4F2C8C;
 }
 
 .how-main__block {
